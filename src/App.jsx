@@ -1,7 +1,6 @@
 import {
   AboutUs,
   Chef,
-  FindUs,
   Footer,
   Gallery,
   Header,
@@ -10,6 +9,8 @@ import {
   SpecialMenu,
 } from "./container";
 import { Navbar } from "./components";
+import FindUs from "./container/Findus/FindUs";
+
 import "./App.css";
 
 const App = () => (
